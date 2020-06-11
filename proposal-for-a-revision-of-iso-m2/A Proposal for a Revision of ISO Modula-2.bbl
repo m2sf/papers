@@ -1,0 +1,84 @@
+\begin{thebibliography}{JTC96}
+
+\bibitem[Par72]{Parnas72}
+David~L. Parnas.
+\newblock On the {C}riteria to be {U}sed in {D}ecomposing {S}ystems into
+  {M}odules.
+\newblock {\em \newline{Comunications of the {ACM}}}, 15(12), 1972.
+
+\bibitem[Sal74]{Saltzer74}
+Jerome~H. Saltzer.
+\newblock {T}he {P}rotection of {I}nformation in {C}omputer {S}ystems.
+\newblock {\em \newline{Comunications of the {ACM}}}, 17(7), 1974.
+
+\bibitem[Dij78]{Dijkstra78}
+Edsger~W. Dijkstra.
+\newblock {\em On the {GREEN} {L}anguage submitted to the {DoD}}.
+\newblock \newline{E.W.Dijkstra Archive, originally circulated privately},
+  1978.
+
+\bibitem[Wir78]{Wirth78}
+Niklaus Wirth.
+\newblock {\em Modula-2}.
+\newblock Technical report, {ETH} Z{\"u}rich, 1978.
+
+\bibitem[Knu84]{Knuth84}
+Donald~E. Knuth.
+\newblock {L}iterate {P}rogramming.
+\newblock {\em {T}he {C}omputer {J}ournal}, 27(2), 1984.
+
+\bibitem[Geo87]{Geoffrey87}
+James Geoffrey.
+\newblock {\em {T}he {T}ao of {P}rogramming}.
+\newblock {I}nfo{B}ooks, 1987.
+
+\bibitem[Wir88]{Wirth88}
+Niklaus Wirth.
+\newblock {\em {P}rogramming in {M}odula-2}.
+\newblock Springer, Heidelberg, 4th edition, 1988.
+
+\bibitem[Wir90]{Wirth90}
+Niklaus Wirth.
+\newblock {\em {O}beron {L}anguage {R}eport}.
+\newblock Technical report, {ETH} Z{\"u}rich, 1990.
+
+\bibitem[JTC96]{ISO96}
+ISO/IEC JTC1/SC22/WG13.
+\newblock {Information Technology} -- {Programming Languages} -- {Part}~1:
+  Modula-2, {Base Language}.
+\newblock {\em International Standard 10514-1}, ISO/IEC, 1996.
+
+\bibitem[Tuc04]{Tucker04}
+Allan B. Tucker.
+\newblock {\em {C}omputer {S}cience {H}andbook}.
+\newblock {C}hapman \& {H}all, 2nd Edition, 2004.
+
+\bibitem[Mar09]{Martin09}
+Robert~C. Martin.
+\newblock {\em {Clean Code:} {A} {H}andbook of {A}gile {S}oftware
+  {C}raftsmanship}.
+\newblock {\newline{Prentice~Hall}}, 2009.
+
+\bibitem[Kow18]{Kowarsch18}
+Benjamin Kowarsch.
+\newblock {\em {O}n the {M}aintenance of {C}lassic {M}odula-2 {C}ompilers}.
+\newblock \newline{Technical report}, Modula-2 Software Foundation, 2018.
+
+\bibitem[II19]{II2019}
+ISO/IEC.
+\newblock {Quantites and units} -- {Part}~2: Mathematics.
+\newblock \newline{\em International Standard ISO/IEC 80000-2,} ISO/IEC, 2019.
+
+\bibitem[Uni19]{Unicode2019}
+The Unicode Consortium.
+\newblock {\em {T}he {U}nicode {S}tandard}.
+\newblock \newline{ISBN 978-1-936213-25-2.}
+\newblock Unicode Consortium, Version 12.1, 2019.
+
+\bibitem[II20]{II2020}
+ISO/IEC.
+\newblock {\em {ISO/IEC} {D}irectives}.
+\newblock ISO/IEC, 16th edition, 2020.
+
+
+\end{thebibliography}
